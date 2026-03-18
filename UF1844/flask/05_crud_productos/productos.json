@@ -1,0 +1,30 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nombre": "Electrónica"
+        },
+        {
+            "id": 2,
+            "nombre": "Ropa"
+        },
+        {
+            "id": 3,
+            "nombre": "Jardín"
+        }
+    ],
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Portátil",
+            "precio": 888.0,
+            "id_categoria": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Gallina",
+            "precio": 1.0,
+            "id_categoria": 3
+        }
+    ]
+}
